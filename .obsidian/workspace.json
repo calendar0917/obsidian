@@ -11,10 +11,14 @@
             "id": "4bfeff91d8c81a95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "日记/2025-11-26.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-11-26"
             }
           }
         ]
@@ -190,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c96c6721f10928bc",
+  "active": "4bfeff91d8c81a95",
   "lastOpenFiles": [
     "杂物/测试.md",
     "文档",
