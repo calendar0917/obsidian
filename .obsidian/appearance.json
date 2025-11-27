@@ -1,8 +1,11 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 21,
+  "baseFontSize": 22,
   "cssTheme": "Minimal",
   "showRibbon": true,
-  "theme": "moonstone",
-  "accentColor": "#6b99f5"
+  "theme": "obsidian",
+  "accentColor": "#6b99f5",
+  "textFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Source Code Pro"
 }

@@ -1,6 +1,8 @@
 {
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "showLineNumber": true,
   "promptDelete": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "未归档"
 }

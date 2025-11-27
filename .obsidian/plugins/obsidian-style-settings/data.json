@@ -22,5 +22,13 @@
   "anuppuccin-theme-settings@@anp-decoration-toggle": false,
   "anuppuccin-theme-settings@@anp-bold-custom": "none",
   "anuppuccin-theme-settings@@anp-header-color-toggle": false,
-  "anuppuccin-theme-settings@@anp-header-margin-toggle": false
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": false,
+  "minimal-style@@h1-size": "2em",
+  "minimal-style@@h2-size": "1.8em",
+  "minimal-style@@h3-size": "1.6em",
+  "minimal-style@@h4-size": "1.4em",
+  "minimal-style@@h2-l": true,
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h3-l": true,
+  "minimal-style@@code-background@@light": "#226585"
 }

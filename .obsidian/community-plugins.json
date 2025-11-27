@@ -1,5 +1,8 @@
 [
-  "obsidian-minimal-settings",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "dataview",
+  "obsidian-image-auto-upload-plugin",
+  "homepage"
 ]

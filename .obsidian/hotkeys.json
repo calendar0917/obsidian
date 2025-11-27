@@ -79,12 +79,21 @@
   ],
   "workspace:goto-tab-1": [],
   "workspace:goto-tab-2": [],
-  "app:toggle-right-sidebar": [
+  "homepage:open-homepage": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowLeft"
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -92,7 +101,23 @@
       "modifiers": [
         "Mod"
       ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
       "key": "ArrowRight"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
     }
   ]
 }
