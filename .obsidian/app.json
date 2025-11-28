@@ -4,5 +4,6 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "未归档"
+  "newFileFolderPath": "未归档",
+  "alwaysUpdateLinks": true
 }
