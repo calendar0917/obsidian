@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未归档/数据通路与时序.md",
-                "mode": "source",
-                "source": false
+                "file": "项目/计算机组成原理复习.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "数据通路与时序"
+              "title": "计算机组成原理复习"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未归档/数据通路与时序.md",
+                "file": "项目/计算机组成原理复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "数据通路与时序 的反向链接列表"
+              "title": "计算机组成原理复习 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未归档/数据通路与时序.md",
+                "file": "项目/计算机组成原理复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "数据通路与时序 的出链列表"
+              "title": "计算机组成原理复习 的出链列表"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未归档/数据通路与时序.md",
+                "file": "项目/计算机组成原理复习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据通路与时序 的大纲"
+              "title": "计算机组成原理复习 的大纲"
             }
           },
           {
@@ -198,9 +198,14 @@
   },
   "active": "adda39ccc091a41d",
   "lastOpenFiles": [
-    "数据通路.canvas",
-    "未归档/数据通路与时序.md",
     "项目/计算机组成原理复习.md",
+    "知识库/数学/欧拉定理.md",
+    "未归档/COA_02_ISA与系统层次.md",
+    "未命名.canvas",
+    "数据通路.canvas",
+    "未归档/指令系统设计原理.md",
+    "未归档/Cache机制.md",
+    "未归档/数据通路与时序.md",
     "未归档/ALU与进位机制.md",
     "未归档/补码.md",
     "未归档/移码.md",
@@ -211,7 +216,6 @@
     "未归档/磁盘与存储性能.md",
     "未归档/Cache与虚存对比.md",
     "未归档/虚拟存储器.md",
-    "未归档/Cache机制.md",
     "未归档/存储层次结构.md",
     "未归档/高级流水线.md",
     "未归档/流水线冒险.md",
@@ -222,8 +226,6 @@
     "未归档/MIPS单周期设计.md",
     "未归档/RISCV架构.md",
     "未归档/MIPS指令详解.md",
-    "未归档/指令系统设计原理.md",
-    "未归档/浮点数运算.md",
     "归档",
     "项目/ctf题解",
     "知识库/数学",
