@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "117b12750890d8c9",
+        "id": "209b0b177c6a76a4",
         "type": "tabs",
         "children": [
           {
-            "id": "adda39ccc091a41d",
+            "id": "73e80a7a725c69c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "项目/ctf题解/Burp靶场-Server-side.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Burp靶场-Server-side"
-            }
-          },
-          {
-            "id": "13f18ffc98d14a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未归档/API测试.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "API测试"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未归档/API测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "API测试 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -128,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未归档/API测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "API测试 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未归档/API测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "API测试 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -195,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,45 +192,55 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "13f18ffc98d14a4d",
+  "active": "73e80a7a725c69c5",
   "lastOpenFiles": [
-    "未归档/API测试.md",
-    "项目/ctf题解/Burp靶场-Server-side.md",
     "Home.md",
-    "知识库/计组/磁盘与存储性能.md",
-    "文档/数据结构实验-关联规则挖掘.md",
-    "知识库/FP-Growth.md",
-    "项目/计算机组成原理复习.md",
-    "知识库/计组/总线与接口.md",
-    "项目/信息安全数学基础复习.md",
-    "知识库/网络安全/路径穿越漏洞.md",
-    "知识库/网络安全/大模型攻击.md",
-    "知识库/网络安全",
-    "知识库/王安",
-    "知识库/新建文件夹",
-    "知识库/杂项/配置docker.md",
-    "知识库/杂项/命令行配置clash.md",
-    "知识库/杂项/Frp 内网穿透.md",
-    "知识库/杂项/docker基本命令.md",
-    "知识库/杂项/Dateview命令.md",
-    "知识库/杂项/Btrfs子卷挂载.md",
-    "知识库/杂项/Autossh 隧道.md",
-    "知识库/杂项/编写Dockerfile.md",
-    "知识库/杂项/Tailscale 组网.md",
-    "知识库/杂项/Nginx 反向代理.md",
-    "知识库/杂项",
-    "未归档/虚拟存储器.md",
-    "知识库/计组/指令系统设计原理.md",
-    "知识库/计组/整数运算与标志位.md",
-    "知识库/计组/异常与中断.md",
-    "知识库/计组/移码.md",
-    "知识库/计组",
+    "未归档/API测试.md",
+    "归档/ctf题解/Burp靶场-认证漏洞.md",
+    "知识库/认证漏洞.md",
+    "归档/ctf题解/Burp靶场-Server-side.md",
+    "知识库/数学/离散对数.md",
+    "小枳壳讲SRC挖掘/1 信息收集/信息收集/目录扫描.md",
+    "小枳壳讲SRC挖掘/1 信息收集/信息收集/端口扫描.md",
+    "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/信息收集.md",
+    "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/一级域名/一级域名查询.md",
+    "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/三级域名/三级域名查询.md",
+    "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/二级域名/二级域名查询.md",
+    "小枳壳的APT笔记/2 Web漏洞/15 JWT/JWT.md",
+    "小枳壳的APT笔记/2 Web漏洞/2 XSS/waf绕过.md",
+    "小枳壳的APT笔记/2 Web漏洞/2 XSS/更多payload.md",
+    "小枳壳的APT笔记/2 Web漏洞/2 XSS/不包含括号的XSS.md",
+    "小枳壳的APT笔记/2 Web漏洞/2 XSS/500个xss.md",
+    "小枳壳的APT笔记/2 Web漏洞/1 SQL注入/命令执行/MySQL.md",
+    "小枳壳的APT笔记/2 Web漏洞/1 SQL注入/读写文件/PostgreSQL.md",
+    "小枳壳的APT笔记/2 Web漏洞/1 SQL注入/持久化/Oracle.md",
+    "小枳壳的APT笔记/2 Web漏洞/1 SQL注入/持久化/MySQL.md",
+    "小枳壳的APT笔记/1 信息收集/域名和IP.png",
+    "小枳壳的APT笔记/1 信息收集/域名和IP.md",
+    "小枳壳的APT笔记/1 信息收集/业务架构信息.md",
+    "知识库/数学/原根.md",
+    "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/二级域名",
+    "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/三级域名",
+    "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/一级域名",
+    "小枳壳讲SRC挖掘/1 信息收集/信息收集/网络空间搜索引擎.md",
+    "小枳壳讲SRC挖掘/1 信息收集/信息收集/旁站和C段.md",
+    "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法",
+    "小枳壳讲SRC挖掘/1 信息收集/信息收集",
+    "小枳壳讲SRC挖掘/1 信息收集",
+    "小枳壳讲SRC挖掘",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/winrar-logo.png",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/warning.png",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/view.png",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/up.png",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/test.png",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/extract.png",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/scan.png",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/pdf.png",
+    "小枳壳的APT笔记/7 木马投递/ZIP/WinRAR/css/images/folder.png",
+    "小枳壳的APT笔记/6 C2/BruteRatel_1.4.5.Scandinavian_Defense_Lic_20240701/server_confs/bofs/obj/vainject86.o",
+    "小枳壳的APT笔记/6 C2/BruteRatel_1.4.5.Scandinavian_Defense_Lic_20240701/server_confs/bofs/obj/vainject64.o",
+    "小枳壳的APT笔记/6 C2/BruteRatel_1.4.5.Scandinavian_Defense_Lic_20240701/server_confs/bofs/obj/shadowclone86.o",
     "未命名.canvas",
-    "数据通路.canvas",
-    "归档",
-    "项目/ctf题解",
-    "知识库/数学",
-    "文档",
-    "未命名.base"
+    "数据通路.canvas"
   ]
 }

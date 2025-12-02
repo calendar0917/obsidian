@@ -4,6 +4,8 @@
 
 [[API测试]]
 
+[[认证漏洞]]
+
 ## Acess Control 访问控制
 
 > 在 Web 应用场景中，访问控制依赖于身份验证（Authentication）和会话管理（Session Management）：
