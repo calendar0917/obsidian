@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "209b0b177c6a76a4",
+        "id": "4a2a117d70b4d57e",
         "type": "tabs",
         "children": [
           {
-            "id": "73e80a7a725c69c5",
+            "id": "f041b1c113c0e4f6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "知识库/正则表达式.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "正则表达式"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识库/正则表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "正则表达式 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识库/正则表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "正则表达式 的出链列表"
             }
           },
           {
@@ -139,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "知识库/正则表达式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "正则表达式 的大纲"
             }
           },
           {
@@ -177,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 395.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +196,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "73e80a7a725c69c5",
+  "active": "f041b1c113c0e4f6",
   "lastOpenFiles": [
+    "知识库/正则表达式.md",
     "Home.md",
     "未归档/API测试.md",
     "归档/ctf题解/Burp靶场-认证漏洞.md",
@@ -223,7 +228,6 @@
     "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/三级域名",
     "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法/一级域名",
     "小枳壳讲SRC挖掘/1 信息收集/信息收集/网络空间搜索引擎.md",
-    "小枳壳讲SRC挖掘/1 信息收集/信息收集/旁站和C段.md",
     "小枳壳讲SRC挖掘/1 信息收集/简单搜寻方法",
     "小枳壳讲SRC挖掘/1 信息收集/信息收集",
     "小枳壳讲SRC挖掘/1 信息收集",
